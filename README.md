@@ -12,6 +12,10 @@ FOTOGRAFIJA vezja:\
 ![vezje](https://github.com/Hudi452/Vaja7-PWM-NUCLEO/blob/main/Slika_vezja.png)
 
 
+FOTOGRAFIJA osciloskopa:\
+![osciloskop](https://github.com/Hudi452/Vaja7-PWM-NUCLEO/blob/main/Slika_osciloskopa.png)
+
+
 
 VIDEO POSNETEK delovanja:\
 
