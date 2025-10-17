@@ -23,7 +23,7 @@ VIDEO POSNETKI delovanja:
 https://github.com/Hudi452/Vaja7-PWM-NUCLEO/blob/main/Vaja7-PWM_1.mp4
    
 
-2. DutyCycle = 25%:
+2. DutyCycle = 25%:\
 https://github.com/Hudi452/Vaja7-PWM-NUCLEO/blob/main/Vaja7-PWM_2.mp4
 
 3. Duty Cycle se spreminja:\
