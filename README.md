@@ -26,7 +26,7 @@ VIDEO POSNETKI delovanja:
 ![video2](https://github.com/Hudi452/Vaja7-PWM-NUCLEO/blob/main/Vaja7-PWM_2-ezgif.com-video-to-gif-converter.gif)
 
 3. Duty Cycle se spreminja:\
-   
+![video3](https://github.com/Hudi452/Vaja7-PWM-NUCLEO/blob/main/Vaja7-PWM_3-ezgif.com-optimize.gif)   
 
 
 ODGOVORI NA VPRAŠANJA:\
