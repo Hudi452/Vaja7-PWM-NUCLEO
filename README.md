@@ -54,7 +54,7 @@ HAL_Delay(1000);\
 Z ukazom htim1.Instance->CCR1 = dutyCycle; vstavimo v register CCR1, ki je odgovoren za širino impulza našega PWM signala, vrednost spremenljivke dutyCycle.\
 Z ukazom dutyCycle+=10; povečamo vrednost spremenljivke dutyCycle za 10.\
 Z ukazom if(dutyCycle>90) dutyCycle=10; zapišemo spremenljivki dutyCycle vrednost 10, če je ta večja od 90.\
-Z ukazom HAL_Delay(1000);\ počakamo eno sekundo.\
+Z ukazom HAL_Delay(1000); počakamo eno sekundo.\
 
 KOMENTAR:\
 
