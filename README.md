@@ -19,13 +19,14 @@ FOTOGRAFIJA osciloskopa:\
 
 VIDEO POSNETKI delovanja:
 
-1. Duty Cycle = 50%:
+1. Duty Cycle = 50%:\
+![video1](https://github.com/Hudi452/Vaja7-PWM-NUCLEO/blob/main/Vaja7-PWM_1.mp4)
    
 
-2. DutyCycle = 25%:
+3. DutyCycle = 25%:
    
 
-3. Duty Cycle se spreminja:
+4. Duty Cycle se spreminja:
 
    
 
