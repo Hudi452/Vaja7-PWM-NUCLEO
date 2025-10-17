@@ -5,11 +5,11 @@ PINOUT slika:\
 
 
 IZREZEK konfiguracijskega okna (TIM1,  Parameter Settings):\
-![pinout](https://github.com/Hudi452/Vaja7-PWM-NUCLEO/blob/main/Timer_configuration.png)
+![konfig](https://github.com/Hudi452/Vaja7-PWM-NUCLEO/blob/main/Timer_configuration.png)
 
 
 FOTOGRAFIJA vezja:\
-
+![vezje](https://github.com/Hudi452/Vaja7-PWM-NUCLEO/blob/main/Slika_vezja.png)
 
 
 
