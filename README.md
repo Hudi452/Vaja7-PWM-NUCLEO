@@ -11,6 +11,8 @@ IZREZEK konfiguracijskega okna (TIM1,  Parameter Settings):\
 FOTOGRAFIJA vezja:\
 
 
+
+
 VIDEO POSNETEK delovanja:\
 
 
