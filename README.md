@@ -56,7 +56,7 @@ Z ukazom if(dutyCycle>90) dutyCycle=10; zapišemo spremenljivki dutyCycle vredno
 Z ukazom HAL_Delay(1000); počakamo eno sekundo.
 
 KOMENTAR:\
-Z osciloskopom smo izmerili PWM signale, ki jih generira STM32. Najprej smo z osciloskopom izmerili PWM signal z delovnim ciklom 50% (impulz traja polovico periode), nato pa smo program spremenili tako, da smo lahko generirali PWM signal z delovnim ciklom 25% (impulz traja četrtino periode). Na koncu pa smo STM32 sprogramirali tako, da se širina impulza PWM signala postopoma povečuje od 10% do 90% periode. Za tem pade širina impulza ponovno na 10% periode in postopek se ponovi.
+Z osciloskopom smo izmerili PWM signale, ki jih generira STM32. Najprej smo z osciloskopom izmerili PWM signal z delovnim ciklom 50% (impulz traja polovico periode), nato pa smo program spremenili tako, da smo lahko generirali PWM signal z delovnim ciklom 25% (impulz traja četrtino periode). Na koncu pa smo STM32 sprogramirali tako, da se širina impulza PWM signala vsako sekundo postopoma povečuje za vrednost 10 od 10% do 90% periode. Za tem pade širina impulza ponovno na 10% periode in postopek se ponovi.
 
 
 
